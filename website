@@ -1,0 +1,73 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="ytf-8">
+<title>abel website</title>
+</head>
+
+<body>
+   <table>
+      <tr>
+         <td><img src="images.jpg"alt=""> </td>
+         <td> <h1> ICT web development  </h1>
+    <h1><em>My name is Abel Belay<strong> I am 17 year old I was born in addis abeba</strong>.</em></p>
+    <p> I am a student at school of tomorrow I used a software from <a href="https://www.appbrewery.co/">the app brewery  </a>to develop this website</p> </td>
+              
+      </tr>
+    </table>
+   
+    <hr>
+    <h3>I like to play basket ball and foot ball. i used to play foot ball since i was a kid. what i mostly do are </h3>
+    <ul>
+       <li>studing</li>
+       <li>and helping my parants</li>  
+    </ul>
+    <h3>School I have learnt in before</h3>
+    <table>
+      </tr>
+      <thead>
+         <tr>
+            <th>date</th>
+            <th>school</th> 
+         </tr>
+      </thead>
+      <tbody>
+    <tr>
+        <td>2006-2013</td>
+        <td> Ethioparents school</td>
+         </tr>
+       <tr>
+       <td> 2013-2015 </td>
+       <td> Radical</td>
+       </tr>
+       <tr>
+        <td>2016-2021</td>
+        <td>school of tomorrow </td>  
+       </tr>
+      </tbody>
+      </table>
+      <h3>my skills</h3>
+      <table>
+         <tr>
+            <td>web development</td>
+            <td>⭐️⭐️⭐️</td>
+             </tr>
+        <tr>
+            <td>paying football</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+             </tr>
+               <tr>
+            <td>computer skills</td>
+            <td>⭐️⭐️⭐️⭐️</td>
+             </tr>
+
+
+      </table>
+    <a href="my hoobies.html">My hobbies</a><br> 
+   
+       <a href="https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf">here are cheat sheet</a><br>
+       <a href="contact.html">contact me</a><br>
+    </body>
+ 
+
+    </html>
